@@ -2,7 +2,9 @@
 Analysis and simple model built on Online Game Anxiety Dataset on kaggle.com
 
 Link: https://www.kaggle.com/datasets/divyansh22/online-gaming-anxiety-data?resource=download
+
 Survey information: https://osf.io/vyr5f
+
 Personal Insights about the Dataset:
 
 In general, it is a very good dataset to work on, but firstly it is cruical to check the survey first, analyze it, and understand why this dataset was initially created and how.
